@@ -1,0 +1,21 @@
+.grid{
+    /* color: black; */
+    position: relative;
+    top: 0;
+    /* background-color: rgba(21, 29, 53, 0.842); */
+    margin: 50px 0 0;
+    width: auto;
+}
+
+
+.title   {
+    height: 12vh;
+    background-color    : rgba(47, 15, 77, 0.664);
+    color: white;
+    padding-top: 1rem;
+}
+
+button{
+    margin-top:2rem ;
+}
+
